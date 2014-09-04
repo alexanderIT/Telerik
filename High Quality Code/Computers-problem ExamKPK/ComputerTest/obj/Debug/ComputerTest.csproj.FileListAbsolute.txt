@@ -1,0 +1,14 @@
+G:\HQC\Computers-problem\ComputerTest\bin\Debug\ComputerTest.dll
+G:\HQC\Computers-problem\ComputerTest\bin\Debug\ComputerTest.pdb
+G:\HQC\Computers-problem\ComputerTest\bin\Debug\Computers.UI.Console.exe
+G:\HQC\Computers-problem\ComputerTest\bin\Debug\Computers.UI.Console.pdb
+G:\HQC\Computers-problem\ComputerTest\obj\Debug\ComputerTest.csprojResolveAssemblyReference.cache
+G:\HQC\Computers-problem\ComputerTest\obj\Debug\ComputerTest.dll
+G:\HQC\Computers-problem\ComputerTest\obj\Debug\ComputerTest.pdb
+D:\ExamKPK\Computers-problem\ComputerTest\bin\Debug\ComputerTest.dll
+D:\ExamKPK\Computers-problem\ComputerTest\bin\Debug\ComputerTest.pdb
+D:\ExamKPK\Computers-problem\ComputerTest\bin\Debug\Computers.UI.Console.exe
+D:\ExamKPK\Computers-problem\ComputerTest\bin\Debug\Computers.UI.Console.pdb
+D:\ExamKPK\Computers-problem\ComputerTest\obj\Debug\ComputerTest.csprojResolveAssemblyReference.cache
+D:\ExamKPK\Computers-problem\ComputerTest\obj\Debug\ComputerTest.dll
+D:\ExamKPK\Computers-problem\ComputerTest\obj\Debug\ComputerTest.pdb

@@ -1,0 +1,10 @@
+G:\HQC\Computers-problem\Niki\bin\Debug\Computers.UI.Console.exe.config
+G:\HQC\Computers-problem\Niki\bin\Debug\Computers.UI.Console.exe
+G:\HQC\Computers-problem\Niki\bin\Debug\Computers.UI.Console.pdb
+G:\HQC\Computers-problem\Niki\bin\Debug\System.Collections.Generic.dll
+G:\HQC\Computers-problem\Niki\obj\Debug\Computers.UI.Console.exe
+G:\HQC\Computers-problem\Niki\obj\Debug\Computers.UI.Console.pdb
+G:\HQC\Computers-problem\Niki\obj\Debug\Computers.csprojResolveAssemblyReference.cache
+D:\ExamKPK\Computers-problem\Niki\bin\Debug\Computers.UI.Console.exe.config
+D:\ExamKPK\Computers-problem\Niki\obj\Debug\Computers.UI.Console.exe
+D:\ExamKPK\Computers-problem\Niki\obj\Debug\Computers.UI.Console.pdb
